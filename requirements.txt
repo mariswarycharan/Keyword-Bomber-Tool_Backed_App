@@ -1,0 +1,6 @@
+pandas
+streamlit
+asyncio
+google-generativeai
+httpx
+elementpath
